@@ -1,0 +1,77 @@
+body {
+  background-color: #88C8C8;
+  color: #012264;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+}
+
+article {
+  margin-top: 60px;
+}
+
+a, .links-blaus {
+  color: #3385FF;
+}
+
+.letra-francois {
+  font-family: 'Francois One', sans-serif;
+  font-size: 52px;
+}
+
+.medium-size-font {
+  font-size: 22px;
+}
+
+.quitar-float {
+  float: none;
+}
+
+.espacio-arriba {
+  margin-top: 30px;
+}
+
+.espacio-derecha {
+  margin-right: 1em;
+}
+
+.mediano {
+  font-size: 1.5em;
+}
+
+.no-lista {
+  margin: 0px;
+  padding: 0px;
+}
+
+.no-lista li { /*Cerca els elements li de dins .no-lista*/
+  list-style-type: none;
+}
+
+.color-gris {
+  background-color: #EEE;
+}
+
+.img-proyecto {
+  max-width: 120px;
+  max-height: 130px;
+}
+
+.retraso-animacion-1 {
+  animation-delay: 0.2s;
+}
+
+.retraso-animacion-2 {
+  animation-delay: 1s;
+}
+
+.duracion-animacion-1 {
+  animation-duration: 5s;
+}
+
+#principal {
+  float: none;
+  margin-top: 30px;
+}
